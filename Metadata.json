@@ -1,0 +1,20 @@
+{
+    "Author": "Samhita Kulkarni[MSFT]",
+    "ContentSize": 5657,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/iis-arr-tier-update-script-for-asr-recovery-plan/master/IISARRTierFailover.ps1",
+    "DownloadCount": 590,
+    "Id": "IIS-ARR-tier-update-script-d4e3fa2b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 432,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-3-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "After Failover of data and web tier in IIS workload, this runbook runs powershell script which updates Site Bindings on IIS server and Web farms on ARR. This runbook requires \u00a0Push-AzureVMCommand runbook to be imported from gallery in azure automation account. Runs this PowerSh",
+    "Title": "IIS ARR tier update script for ASR Recovery Plan",
+    "UpdatedDate": "2017-3-23T00:00:00",
+    "Url": "https://github.com/azureautomation/iis-arr-tier-update-script-for-asr-recovery-plan",
+    "UserTags": "Azure Site Recovery, Site Recovery"
+}
